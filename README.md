@@ -6,4 +6,4 @@ Picoctf is a free computer security game targeted at middle and high school stud
 
 ### Site URL - https://play.picoctf.org/practice
 
-### *HappyHacking*
+### *HappyHacking* 🕵️‍♂️🕵️‍♀️
